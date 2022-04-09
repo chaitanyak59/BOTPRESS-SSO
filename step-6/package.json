@@ -14,7 +14,7 @@
     "botpress": "^10.31.0",
     "jsdoc-api": "^4.0.2",
     "lodash": "^4.17.5",
-    "moment": "^2.20.1"
+    "moment": "^2.29.2"
   },
   "scripts": {
     "start": "botpress start",
